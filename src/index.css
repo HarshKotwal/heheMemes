@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+header {
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background: #19034e;
+  color: white;
+  font-family: comic relief, sans-serif;
+}
+header > img {
+  width: 3.2rem;
+}
